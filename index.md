@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Dst101 Homepage
 
 You can use the [editor on GitHub](https://github.com/dst101/dst101.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
